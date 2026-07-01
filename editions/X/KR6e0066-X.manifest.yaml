@@ -1,0 +1,2026 @@
+canonical_identifier: bkk:krp/KR6e0066/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0066/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經合論
+  identifiers:
+    krp: KR6e0066
+    cbeta: X04n0223
+    cbeta_old_id: X04n0223
+    authorityid: CA0001383
+    json_key: X0223
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X04/X04n0223.xml
+    old_id: X04n0223
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0066_000-X.yaml, hash: 'sha256:612d7cbc8f2091d68eab8f9fc966934ab52cbbbc5eacacb48f988741eae29246'}
+  - {seq: 1, filename: KR6e0066_001-X.yaml, hash: 'sha256:ba2bea84b104bc9f8025971732dcb4e0fdbc9b62010b1a0400548b81420b250c'}
+  - {seq: 2, filename: KR6e0066_002-X.yaml, hash: 'sha256:fd685032a2db3dd9048656fb5843048fbb118317d68237c31e62793bdd4c8609'}
+  - {seq: 3, filename: KR6e0066_003-X.yaml, hash: 'sha256:108e60311d6fee62597df5316da6719e8a9d7061aad09ae667f9f5ec167ef581'}
+  - {seq: 4, filename: KR6e0066_004-X.yaml, hash: 'sha256:619eeed6164e69809b082560c15cd0adf99ab5008fc0eeeda66c15f8ddd7e171'}
+  - {seq: 5, filename: KR6e0066_005-X.yaml, hash: 'sha256:b7337aff0f1601e979a2ad7657ffa8925757ec6b4dd42f1c96e14c62d2e6600e'}
+  - {seq: 6, filename: KR6e0066_006-X.yaml, hash: 'sha256:e04e0792611fa344d753c6bf769ade73cad3f06458799065881867255ee5f125'}
+  - {seq: 7, filename: KR6e0066_007-X.yaml, hash: 'sha256:e79766e8183338c4361f53d702dd798615500540444082e2a061e0b44aa439b4'}
+  - {seq: 8, filename: KR6e0066_008-X.yaml, hash: 'sha256:79f0c8a4f1f0b2dcd378a4dd620d1b608681de9fcbaac5b7df6386f891e81a6f'}
+  - {seq: 9, filename: KR6e0066_009-X.yaml, hash: 'sha256:c6db55ba60995eb4438e5806908b5cd22efbd6b9ba704ad9057b17e0fefb8a6a'}
+  - {seq: 10, filename: KR6e0066_010-X.yaml, hash: 'sha256:0460341c53c759477bc62d64a62e6222360a641e4131408e1203768b8e36a59e'}
+  - {seq: 11, filename: KR6e0066_011-X.yaml, hash: 'sha256:559264e511d1b5a6675898d6e8eb0d251e7e079244a703080405650898a7cc9d'}
+  - {seq: 12, filename: KR6e0066_012-X.yaml, hash: 'sha256:87022f03415fc2f301848efe3e60fb10cb9f12e75423625f03485d0845ae631d'}
+  - {seq: 13, filename: KR6e0066_013-X.yaml, hash: 'sha256:ac0e331f04918e185476813660a2f5e9b5eac884a286807fffffc9666116488d'}
+  - {seq: 14, filename: KR6e0066_014-X.yaml, hash: 'sha256:2f35adb9338ba1e5d61a0cada375b4a486f9a3701224c0f268bbccb85cba9d51'}
+  - {seq: 15, filename: KR6e0066_015-X.yaml, hash: 'sha256:b69fb0b0864964359f3594140d1f82f752a7e66ef62bbc3b0fa1e43e2db35b39'}
+  - {seq: 16, filename: KR6e0066_016-X.yaml, hash: 'sha256:fb748b960668c81730c871ba8d269c9187934cdcd935e144611e1fdbe5a4b426'}
+  - {seq: 17, filename: KR6e0066_017-X.yaml, hash: 'sha256:cf71cc5c744731d252a55630de0828864c7efe821405129f14c0952960f9d15a'}
+  - {seq: 18, filename: KR6e0066_018-X.yaml, hash: 'sha256:ba8116e17c4357f0b35c051e72fe593ab04429698d794ad65c111370eb46c2ce'}
+  - {seq: 19, filename: KR6e0066_019-X.yaml, hash: 'sha256:480aa1899ece2a6ab718e74688c7834e50270e3880209bf67ea8887486e7d19c'}
+  - {seq: 20, filename: KR6e0066_020-X.yaml, hash: 'sha256:fac39711e5dddbd7021b8d048e241ecc5878fc60e0bbecd40f869fdfd29656a5'}
+  - {seq: 21, filename: KR6e0066_021-X.yaml, hash: 'sha256:bc6480ab80d33212567f5ae09726bdfcfd4108bd54621f28c8dde47be1111145'}
+  - {seq: 22, filename: KR6e0066_022-X.yaml, hash: 'sha256:7774f4e104dcf8dac35670f93fe500d5a17811a9b824ef2e8dec132c24836261'}
+  - {seq: 23, filename: KR6e0066_023-X.yaml, hash: 'sha256:edda95d8eaab959c924b83d21af4732e9bdac0985716ebb232cd7ff44585d9c5'}
+  - {seq: 24, filename: KR6e0066_024-X.yaml, hash: 'sha256:84bc8092571cfd856995c6a28d78c542bce3a3b049d8f43e211c481ae4d364cf'}
+  - {seq: 25, filename: KR6e0066_025-X.yaml, hash: 'sha256:889f201616dfb3871da8058f3f8b1b8d37207e472301b97845a5563c0901d0ee'}
+  - {seq: 26, filename: KR6e0066_026-X.yaml, hash: 'sha256:a7febad8ea813662dd16680492e8e2634d93360a39bb9296dc294716ce69d443'}
+  - {seq: 27, filename: KR6e0066_027-X.yaml, hash: 'sha256:ee90e9e8cc5165c86b92fe05ff4019fafadff8273db1642d65c3138ec69492a3'}
+  - {seq: 28, filename: KR6e0066_028-X.yaml, hash: 'sha256:20be0f4e4dda1ade910b305a502be7b203ecd2723ade71e68a5956830903541c'}
+  - {seq: 29, filename: KR6e0066_029-X.yaml, hash: 'sha256:205e8a7f16e8251ab59dda46fe064276a2c375301893692c6bd16ef4157c7ad9'}
+  - {seq: 30, filename: KR6e0066_030-X.yaml, hash: 'sha256:96c733888ec52da21aaa57c03cbd70254a70fbb3480a72f1b2803a5633978bb5'}
+  - {seq: 31, filename: KR6e0066_031-X.yaml, hash: 'sha256:fa973cfc9328847dca99ec3c86d6c81cdffb27dcedb65f9476d0443bd34841cb'}
+  - {seq: 32, filename: KR6e0066_032-X.yaml, hash: 'sha256:40b1b29d60da2aca03c1b85ef86fe343cb910468f05ac70569f5c1349c2d33a8'}
+  - {seq: 33, filename: KR6e0066_033-X.yaml, hash: 'sha256:ff2a1896f9bce5cf7937d3a68402fba0d39c0dc68f9e8765866fbf0118c702c5'}
+  - {seq: 34, filename: KR6e0066_034-X.yaml, hash: 'sha256:227259b1fed8c24882b0652dc97edc57fa57778270dc5c41cca53b4d80b02225'}
+  - {seq: 35, filename: KR6e0066_035-X.yaml, hash: 'sha256:377d24cffdabdd54f3fb2ff3eaa0b2f86e092ffed76f69e931d015f607f71901'}
+  - {seq: 36, filename: KR6e0066_036-X.yaml, hash: 'sha256:79834f19efc0848b33160741cea54651964c09b44a3f5a3f63c80b8e4b89d0ec'}
+  - {seq: 37, filename: KR6e0066_037-X.yaml, hash: 'sha256:e727d83615594dcc08150d98e880a25b31b190829fe1a4af80fcc18845277881'}
+  - {seq: 38, filename: KR6e0066_038-X.yaml, hash: 'sha256:7bbafcb2945257a38d7e0198271a8d55dd8682e346c1cdc62d85f6c96d2df561'}
+  - {seq: 39, filename: KR6e0066_039-X.yaml, hash: 'sha256:d292f62b1c9ce61c65c613836bc06c22d1ab6a227952266c4fe2b5223ad0b23a'}
+  - {seq: 40, filename: KR6e0066_040-X.yaml, hash: 'sha256:b8b4790586cbe6c6d24e8eddd274f376dfbdc7c661ec099fb5ccafda54be9652'}
+  - {seq: 41, filename: KR6e0066_041-X.yaml, hash: 'sha256:2e143f65a459d4d15ca92fa7bb690b156035a742cb28fcec8b0f663b8d474431'}
+  - {seq: 42, filename: KR6e0066_042-X.yaml, hash: 'sha256:a7a3125ebac68e5470a35c6d3d62c786480c38440bc08a34d1550b3f46f649b8'}
+  - {seq: 43, filename: KR6e0066_043-X.yaml, hash: 'sha256:102ccd8333f992d78ff8d8856394744fc188e3d9e0dccc76ab1b2a793cd11efe'}
+  - {seq: 44, filename: KR6e0066_044-X.yaml, hash: 'sha256:d3e2537bb9031d3173cad0547a94399c256f5b134ecc697e8dbcc45bf70b6105'}
+  - {seq: 45, filename: KR6e0066_045-X.yaml, hash: 'sha256:7444dafb54ea5ba4f28bab66c1de023d99413b11dd2a2f268c9cbbff0b993368'}
+  - {seq: 46, filename: KR6e0066_046-X.yaml, hash: 'sha256:adcf5b83aa6bdf25102afb88d82a90e0298476b73fb8f4826cc542f198f9980c'}
+  - {seq: 47, filename: KR6e0066_047-X.yaml, hash: 'sha256:6a4f6da1423c4f1cfe6bc52974d05fa6a2c97f1122c069398f1f933bfd58612b'}
+  - {seq: 48, filename: KR6e0066_048-X.yaml, hash: 'sha256:1fa54c515cc0120b75472140a8a7297fdc7bc98f9b000a6ee0cd257c9d2cfcee'}
+  - {seq: 49, filename: KR6e0066_049-X.yaml, hash: 'sha256:c2e4302020fe93a38e3925289442dbe6c4b6c286fd7808c1533c1126a9003a96'}
+  - {seq: 50, filename: KR6e0066_050-X.yaml, hash: 'sha256:0390cdad44ece16ce57024becd7a1a56d7887b95483ea57e4084a718ccbbe9f2'}
+  - {seq: 51, filename: KR6e0066_051-X.yaml, hash: 'sha256:b62114fe779233080ba45f36c365dc691caff2d1c948809827eeea54756bfdc8'}
+  - {seq: 52, filename: KR6e0066_052-X.yaml, hash: 'sha256:2c700358eb5a8cb3f6d12ce9504d96e4e0338cfe6be85e6390e455c34cd0d221'}
+  - {seq: 53, filename: KR6e0066_053-X.yaml, hash: 'sha256:be3cae654b06b4bc5d70dbf2177e2672c000e429f613118f17de70982f73e81e'}
+  - {seq: 54, filename: KR6e0066_054-X.yaml, hash: 'sha256:383b3e4394cd438b511450fc0411b13d21296015df535ef54f769c20ac3a0393'}
+  - {seq: 55, filename: KR6e0066_055-X.yaml, hash: 'sha256:6126b38101d5be520f984f0f71f3d01462793905b65ef8a0eba84344f6f5aa8b'}
+  - {seq: 56, filename: KR6e0066_056-X.yaml, hash: 'sha256:1590bfb0a11b6b6299f4f0fcf6fde41516aad14cef93bb8a89740f298e16ceac'}
+  - {seq: 57, filename: KR6e0066_057-X.yaml, hash: 'sha256:61fa3db297f7afd945aed3b032965eb8d83bd9937d490c2b83d351c0cde2b6e2'}
+  - {seq: 58, filename: KR6e0066_058-X.yaml, hash: 'sha256:3773087ecf6e7ca478f5c2734053e1dfe03e0db3c88a5fb6ea2d213400c7fa4e'}
+  - {seq: 59, filename: KR6e0066_059-X.yaml, hash: 'sha256:e8ab5693941a89dc5cfa76b46934d9aa8848ad40ca3636d7d338afed324ce805'}
+  - {seq: 60, filename: KR6e0066_060-X.yaml, hash: 'sha256:fa2b051fbe0d6a13d796093ce0018fc0667fd95245547fc2a170c642e6f909bb'}
+  - {seq: 61, filename: KR6e0066_061-X.yaml, hash: 'sha256:38a9e89519974d148c5e6296c2a8924162383d2d39ec49e57bb8072e3d50b957'}
+  - {seq: 62, filename: KR6e0066_062-X.yaml, hash: 'sha256:ab0ff2799b5bcd6f0f3cc48781d68f41a6f6d3eab0876030a1836ea7eebb2ed6'}
+  - {seq: 63, filename: KR6e0066_063-X.yaml, hash: 'sha256:1c4305a24f0e21f0dee4f5457a73f018ca42d5494cac36cf3415907d2e80fa21'}
+  - {seq: 64, filename: KR6e0066_064-X.yaml, hash: 'sha256:d80b5b44b51149374cef44d32f228e09cd69d014c7dff6c10f4d455986ec5a46'}
+  - {seq: 65, filename: KR6e0066_065-X.yaml, hash: 'sha256:6ac50205e8a555757880244f816510e1c05985ae22522912d90b4b1d9d892061'}
+  - {seq: 66, filename: KR6e0066_066-X.yaml, hash: 'sha256:6e9e15b4963ef20b3ff78f8482657c70905a82c0d7284bd0e4d5794d110b9436'}
+  - {seq: 67, filename: KR6e0066_067-X.yaml, hash: 'sha256:457e4fd586e56ff768268064b7249f5c207f567f4b3a22338b45d07b3faabaa6'}
+  - {seq: 68, filename: KR6e0066_068-X.yaml, hash: 'sha256:f00bef0e22e03c25cf3c4d09a229bc928b4c582595330c3a2500dccf3eaa1311'}
+  - {seq: 69, filename: KR6e0066_069-X.yaml, hash: 'sha256:d8d14a639c4932c9df80045aed94fad7b7fe3e26f04aa9d56d7c9b6bf26fe00f'}
+  - {seq: 70, filename: KR6e0066_070-X.yaml, hash: 'sha256:a03acc9fc01d4c74240f644346f7c778e072ecfa5a8c4e6fe1fe834224f158f4'}
+  - {seq: 71, filename: KR6e0066_071-X.yaml, hash: 'sha256:cabce888b7768c6bf1931e59e6e1150bff840269689fe51b4a96ba6860db14e4'}
+  - {seq: 72, filename: KR6e0066_072-X.yaml, hash: 'sha256:9ad8c60d56250b16dcbdaab8d205a57f28eb030c639820335412455102693eb4'}
+  - {seq: 73, filename: KR6e0066_073-X.yaml, hash: 'sha256:a278889ebffc254b6945b8493369fc92129c8f4d29d0c794e4bd67538a829f2d'}
+  - {seq: 74, filename: KR6e0066_074-X.yaml, hash: 'sha256:6666d2a1be775448c56be29aa104b0f9cbb24ac787ad853ef9833a00b51f2aaf'}
+  - {seq: 75, filename: KR6e0066_075-X.yaml, hash: 'sha256:154d08e0c4fbec91549d152a45224358ce8305ae42567594f550813d3b8881f0'}
+  - {seq: 76, filename: KR6e0066_076-X.yaml, hash: 'sha256:56be8fe5275fb648674e37e301d08a8073fab9cfc5c3197fdea0109714fa7e8a'}
+  - {seq: 77, filename: KR6e0066_077-X.yaml, hash: 'sha256:d8de1dfa4b3b344bc7d1684f04642c2e32e33772e29db114e582f346bca7c1d4'}
+  - {seq: 78, filename: KR6e0066_078-X.yaml, hash: 'sha256:815688e35fdaa7088654f558e2ef6fc87bc01e3037b7f1117f8dc15dd7d4a690'}
+  - {seq: 79, filename: KR6e0066_079-X.yaml, hash: 'sha256:8963a2194d57b9e19e75e39562120119a7ec26dad68adfa32919391500c86ff0'}
+  - {seq: 80, filename: KR6e0066_080-X.yaml, hash: 'sha256:46e4d8a4d7eac23699a03f847ae8f74ff1069440259b4dee5411d1e9a17a97fa'}
+  - {seq: 81, filename: KR6e0066_081-X.yaml, hash: 'sha256:45407136071670684f8781ef8ba8bc106c8e6fe96f1e86689e54c8d336e1a312'}
+  - {seq: 82, filename: KR6e0066_082-X.yaml, hash: 'sha256:d14b441227a46e8792c868c4f794a261a5f6e2ac4d93a0d21d6b5b4664a83741'}
+  - {seq: 83, filename: KR6e0066_083-X.yaml, hash: 'sha256:79697dd6009c950b08c346a2803454aa7f87db3e2869c614d39987ad60b0c818'}
+  - {seq: 84, filename: KR6e0066_084-X.yaml, hash: 'sha256:995bd381b3172c844fedd9a419b25d2263557c5aa15a2bd1052deaf894c059f6'}
+  - {seq: 85, filename: KR6e0066_085-X.yaml, hash: 'sha256:d7c871efefa5a7b51486c81c41fdf393d5fe6391aba460063b2c638f0d1795bf'}
+  - {seq: 86, filename: KR6e0066_086-X.yaml, hash: 'sha256:c6549eff971307cbdcc3013830735bba48f72c1f4c47de21fea93b1dfdcadaee'}
+  - {seq: 87, filename: KR6e0066_087-X.yaml, hash: 'sha256:c74e3fe049fd7482fb87ca99988f08adbf157451d3599acf1e36a189b74d285a'}
+  - {seq: 88, filename: KR6e0066_088-X.yaml, hash: 'sha256:faa3c5ac7409b345c1740cd5f3182a7a60585b4f64e4db203aa4c0cfe69df501'}
+  - {seq: 89, filename: KR6e0066_089-X.yaml, hash: 'sha256:f9fa7524ea54858148ac4db35090a1e64a162830d33c04a8dcc14f211dcbe8d2'}
+  - {seq: 90, filename: KR6e0066_090-X.yaml, hash: 'sha256:e7d038a9986123095854d9e4c61d2a69743b2a37cc4338b2f85f90ce36fd03ba'}
+  - {seq: 91, filename: KR6e0066_091-X.yaml, hash: 'sha256:719d78f203a24d468d3aa4b7342a3f473a33fe942d858e088c54beba19d37e90'}
+  - {seq: 92, filename: KR6e0066_092-X.yaml, hash: 'sha256:0d7732a8dbdd6cc14f1c11c5ad75a4497e43831f42bf5e3a670daf4934dc7f1d'}
+  - {seq: 93, filename: KR6e0066_093-X.yaml, hash: 'sha256:3d2eddac227fee9affb9037a035628ca6fb01dd1ad6cd02668b167e3995be94c'}
+  - {seq: 94, filename: KR6e0066_094-X.yaml, hash: 'sha256:63c7f18389664cacca90a5a8dff0128cd8e9ca778022e577fc72dfc3c06f4e41'}
+  - {seq: 95, filename: KR6e0066_095-X.yaml, hash: 'sha256:8ac56447940bbe183b3805bfcf5c3f162efd9b76c74f5ff471b575f7f97026c9'}
+  - {seq: 96, filename: KR6e0066_096-X.yaml, hash: 'sha256:0316d7839f84721d910e26bc23bab7aa2ba669c2d351ec424bdc5ea7cf5301b3'}
+  - {seq: 97, filename: KR6e0066_097-X.yaml, hash: 'sha256:2aaf7aee698651cde24478f8392106ecd60801b45ce2c9a694dea1ad76e25c61'}
+  - {seq: 98, filename: KR6e0066_098-X.yaml, hash: 'sha256:7b83ccc027089a5738f21d2d731e937149cbdeb58dd8eb3b0f07491a01e64e2c'}
+  - {seq: 99, filename: KR6e0066_099-X.yaml, hash: 'sha256:45b4e583ca8f3256b9fd42688ae2339eda0fa0852ad411e7132f90cc702e2a03'}
+  - {seq: 100, filename: KR6e0066_100-X.yaml, hash: 'sha256:0f43a290a1cb98aba4ee2951c16cc08b06e0bbb43661d22627396590956ba33a'}
+  - {seq: 101, filename: KR6e0066_101-X.yaml, hash: 'sha256:bed86d17b3cda5e592e663d1a0fe0fe660180019bd051292a5d799eeb320cc7d'}
+  - {seq: 102, filename: KR6e0066_102-X.yaml, hash: 'sha256:fe1f26ff83d63e6e97bda3bbc77b81fb12a04b7e9531c98f18e885960490619e'}
+  - {seq: 103, filename: KR6e0066_103-X.yaml, hash: 'sha256:84f42d0733e8b8a0f4c2461fc6f958568b2a458943de5b8a1f3d30c96d21f067'}
+  - {seq: 104, filename: KR6e0066_104-X.yaml, hash: 'sha256:f2a7d8c9ffbfcd1308a4311ea280c2854a50bbe772bcfb26023ad7ec6d37c081'}
+  - {seq: 105, filename: KR6e0066_105-X.yaml, hash: 'sha256:b0b5eced08168903c5aaecb03ef3c20845b8e09f98599778b4d9ffc9c8a6f35f'}
+  - {seq: 106, filename: KR6e0066_106-X.yaml, hash: 'sha256:c3173b864b9ec51ec70b751ba09be38226d4503d09be6b56c3a50f226c479f22'}
+  - {seq: 107, filename: KR6e0066_107-X.yaml, hash: 'sha256:76a1ccdbf45fefbddb19a47c82156977c800eaf6cb249a52a5af6bb85b4f6123'}
+  - {seq: 108, filename: KR6e0066_108-X.yaml, hash: 'sha256:e25acb700ae2215e5fb717b395b4ec16b90737403690b9707bb6beea3d5e8cfc'}
+  - {seq: 109, filename: KR6e0066_109-X.yaml, hash: 'sha256:7b463fa130705f42df969fb85f59533c6cb57ae23212715ef9d956e31bef8849'}
+  - {seq: 110, filename: KR6e0066_110-X.yaml, hash: 'sha256:ad0434773237363923ecf26b569af4e6819b96563e44afe28ad6a09b56bf6832'}
+  - {seq: 111, filename: KR6e0066_111-X.yaml, hash: 'sha256:2d4b4308e2e890f46210428676f3d115157710a6a3efe2f29d6517146e9e1206'}
+  - {seq: 112, filename: KR6e0066_112-X.yaml, hash: 'sha256:fae32106aa5935c170b6e0c077436ffa8eb86f5800880d7b31a5c57829e859b7'}
+  - {seq: 113, filename: KR6e0066_113-X.yaml, hash: 'sha256:7f1165e8d0deed2cac1a4b31d759d3f54bb124d99bebcd6e77c9e54b0621a0fd'}
+  - {seq: 114, filename: KR6e0066_114-X.yaml, hash: 'sha256:1e22f4bd22f20835a8eb944009440dfa44eb28a86b4d4db09a8394f203836759'}
+  - {seq: 115, filename: KR6e0066_115-X.yaml, hash: 'sha256:333b3f02588f91a452fc4d49289c669d759e2eddaa4613bd86240f1f0e011566'}
+  - {seq: 116, filename: KR6e0066_116-X.yaml, hash: 'sha256:5ac15be175a3f38e8a1c45e6eb7b3384aeffda2b1691fb2b2cc3a926f55abfaa'}
+  - {seq: 117, filename: KR6e0066_117-X.yaml, hash: 'sha256:f2499a82973c4c999007063deceb7afb10a658764ba6ff7a031470a779e29fbf'}
+  - {seq: 118, filename: KR6e0066_118-X.yaml, hash: 'sha256:63de730d080d242bf302096448b91650479c678e83b3a3145515926b5d7f1ebc'}
+  - {seq: 119, filename: KR6e0066_119-X.yaml, hash: 'sha256:74b1e79690cf53669821ce6301336f6a74e7855800111bf5425fb30f515ef856'}
+  - {seq: 120, filename: KR6e0066_120-X.yaml, hash: 'sha256:2674b1fca368e37db6199854559939f2b779fef0e93bc459a95a663465fefb72'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0066_000-X.markers.yaml, hash: 'sha256:73a5903c3b841a448aff156ab7afd11fe65703003645fb7c8e073675b6b63087'}
+  - {seq: 1, role: markers, filename: assets/KR6e0066_001-X.markers.yaml, hash: 'sha256:ab8537b02ae7257afdd980bc00a70bf80c55fb154b43ef519c7206eef2d0ff7f'}
+  - {seq: 2, role: markers, filename: assets/KR6e0066_002-X.markers.yaml, hash: 'sha256:0d2dba9b0d890118f70bfcc9c92480835fe11fec4ba47eb489ba3c8bcdd6f982'}
+  - {seq: 3, role: markers, filename: assets/KR6e0066_003-X.markers.yaml, hash: 'sha256:387a3956e4178fcdf2c1a8fe1a3088deb0455c68309a30d6cc7a716e25d8fa65'}
+  - {seq: 4, role: markers, filename: assets/KR6e0066_004-X.markers.yaml, hash: 'sha256:f87065f03695ca77a31ce24767e7ed2bdd71827b833bb8d71d78713434d494f2'}
+  - {seq: 5, role: markers, filename: assets/KR6e0066_005-X.markers.yaml, hash: 'sha256:7aae01ad65015318b78ff8326bd2d42bdd33ef5fad7e017381c768995193b1a0'}
+  - {seq: 6, role: markers, filename: assets/KR6e0066_006-X.markers.yaml, hash: 'sha256:87d6131361d5d021f990a2de34777d016412f7a9acdcba4dae3728c94fcf953f'}
+  - {seq: 7, role: markers, filename: assets/KR6e0066_007-X.markers.yaml, hash: 'sha256:f8ba2f0c58636b2f6fe20308659041c9859989b8a58063d2961643e6f266496c'}
+  - {seq: 8, role: markers, filename: assets/KR6e0066_008-X.markers.yaml, hash: 'sha256:1e8ba139afcf0d99df5d637fed06dd3950cc8459629adba377ee821ff857083c'}
+  - {seq: 9, role: markers, filename: assets/KR6e0066_009-X.markers.yaml, hash: 'sha256:d517bb3a97cb39c633960276ec25fe2a00d970d36a71bd3d0f26873e3912a5e0'}
+  - {seq: 10, role: markers, filename: assets/KR6e0066_010-X.markers.yaml, hash: 'sha256:1a4af7d184c0260b724c7ca983ac8c8dfebf4a65e0dfa6c664dff34362254da8'}
+  - {seq: 11, role: markers, filename: assets/KR6e0066_011-X.markers.yaml, hash: 'sha256:7d511dc2fd6be52b10f22133facde7f6fd3bebee2204bf83bc6ef9420b9e3689'}
+  - {seq: 12, role: markers, filename: assets/KR6e0066_012-X.markers.yaml, hash: 'sha256:b0ac7941f47284731a7f08151c9fde18a44e60c8d2ff322329f1b1978ef48b79'}
+  - {seq: 13, role: markers, filename: assets/KR6e0066_013-X.markers.yaml, hash: 'sha256:491b1e590828878a8e3062b853ee7195ab48e965c4de02f58dab0c2ac0bcd0d9'}
+  - {seq: 14, role: markers, filename: assets/KR6e0066_014-X.markers.yaml, hash: 'sha256:0adfaea6b53553cd12c8534ba5acac6640a80ad28351c1e4825717af21cf72f6'}
+  - {seq: 15, role: markers, filename: assets/KR6e0066_015-X.markers.yaml, hash: 'sha256:f7f82ee25fb2a4b1c67cc4308af5c4cbbb19c98355b9d182e5f29edbec9e0ce2'}
+  - {seq: 16, role: markers, filename: assets/KR6e0066_016-X.markers.yaml, hash: 'sha256:2639246436e9482a8ee218274b903f6db55e58a39baeb696de93995dc91875e6'}
+  - {seq: 17, role: markers, filename: assets/KR6e0066_017-X.markers.yaml, hash: 'sha256:8017e8165ac97d6fe9ffd2df99b620511ca009de043a51454685a93f47306a74'}
+  - {seq: 18, role: markers, filename: assets/KR6e0066_018-X.markers.yaml, hash: 'sha256:932593cc32ad595bc0fa25b7fb5f0b21c6421d1acf005134e32e3793b87e43c9'}
+  - {seq: 19, role: markers, filename: assets/KR6e0066_019-X.markers.yaml, hash: 'sha256:c54f3935df84e9b8ccd083dc1223f90bfa2b4a872caa1c742d4ade94f0d54b12'}
+  - {seq: 20, role: markers, filename: assets/KR6e0066_020-X.markers.yaml, hash: 'sha256:81101b6c148af3069223e4bae200263df1227b30d0cbf62cc9c43fb9365395ac'}
+  - {seq: 21, role: markers, filename: assets/KR6e0066_021-X.markers.yaml, hash: 'sha256:6c175bc9b0962065dbdbbaf6e479e45b38f98f644887ff851b2aa99a3752d0a1'}
+  - {seq: 22, role: markers, filename: assets/KR6e0066_022-X.markers.yaml, hash: 'sha256:8d759af48c020ddd0dad5c4fe7092fff1b85581cb72fad29bd977229f1cb827d'}
+  - {seq: 23, role: markers, filename: assets/KR6e0066_023-X.markers.yaml, hash: 'sha256:bbb0b4645732527d9a42980296ed3e88708c59d40e7b88669d786aa26d9a9189'}
+  - {seq: 24, role: markers, filename: assets/KR6e0066_024-X.markers.yaml, hash: 'sha256:1f6b92171a2dbd7f7a187d046f21bf8ee79dc6959abd3396010f21785d9fe573'}
+  - {seq: 25, role: markers, filename: assets/KR6e0066_025-X.markers.yaml, hash: 'sha256:b3d75b8fd9344155fe0dbfbdbaa5e87c00ac55f5c35373fd2dc3c2d33e951e1e'}
+  - {seq: 26, role: markers, filename: assets/KR6e0066_026-X.markers.yaml, hash: 'sha256:fa017576262734d3cee8d4bed817bae1b951f204f6ca11da5433d890441e7c8b'}
+  - {seq: 27, role: markers, filename: assets/KR6e0066_027-X.markers.yaml, hash: 'sha256:a41ae849ac703ea6b44a7081ebbb1e87f3daad117ed8aa7a6518b90c6fbff208'}
+  - {seq: 28, role: markers, filename: assets/KR6e0066_028-X.markers.yaml, hash: 'sha256:700b744aaf551c542de738d5aeaf1f4841d7f63b04f061bc9bc1653fd84b3621'}
+  - {seq: 29, role: markers, filename: assets/KR6e0066_029-X.markers.yaml, hash: 'sha256:7edc296900a4397de155d9d9a5609a7b7be346e87bc565527d0ae0ce1afdd481'}
+  - {seq: 30, role: markers, filename: assets/KR6e0066_030-X.markers.yaml, hash: 'sha256:132e8709443dd8ba8a6789de027b48521ddeb512c1007b1b0a195ea0f3b9bd2a'}
+  - {seq: 31, role: markers, filename: assets/KR6e0066_031-X.markers.yaml, hash: 'sha256:836935c16c4873e212274ef473bd7f932dfba428e3c02a9a1372650663affc63'}
+  - {seq: 32, role: markers, filename: assets/KR6e0066_032-X.markers.yaml, hash: 'sha256:57262d796d79211e328398c6058fc2d8edb5e8245ef9c9f4f4594652006d49a2'}
+  - {seq: 33, role: markers, filename: assets/KR6e0066_033-X.markers.yaml, hash: 'sha256:bdb10bc6d83c0c3bb8b30504e722000ac1d0b9bce0025c683373e7aa9687ba67'}
+  - {seq: 34, role: markers, filename: assets/KR6e0066_034-X.markers.yaml, hash: 'sha256:e8318252a2c8ec1337ffb5d46b29964b7149f0a4393103a89c0906e02b9a6f1e'}
+  - {seq: 35, role: markers, filename: assets/KR6e0066_035-X.markers.yaml, hash: 'sha256:390921c326e35f17d41190ce8870fb8d564cdb69cd1bb73da243a26209d9493c'}
+  - {seq: 36, role: markers, filename: assets/KR6e0066_036-X.markers.yaml, hash: 'sha256:a96fe0f397a6662d547d03902aeec4b045021469dfdb051cd82e085dbde7c8ca'}
+  - {seq: 37, role: markers, filename: assets/KR6e0066_037-X.markers.yaml, hash: 'sha256:52666962d01f34f2e086439ac326c2bfbc875270c3e7fe6c4661002771521c07'}
+  - {seq: 38, role: markers, filename: assets/KR6e0066_038-X.markers.yaml, hash: 'sha256:396a7992cf3e5c4ccfc098b914b34804dd7fd2996b6b82e9c5696405ab0d7cc5'}
+  - {seq: 39, role: markers, filename: assets/KR6e0066_039-X.markers.yaml, hash: 'sha256:cac19d2a871d8b2dca88e99c766f4be2cca595083c139a6464b9d70017034e08'}
+  - {seq: 40, role: markers, filename: assets/KR6e0066_040-X.markers.yaml, hash: 'sha256:f332a6d7e25890f1d3a868bad6622d969da48c7977e3c15f9a53026248737d6e'}
+  - {seq: 41, role: markers, filename: assets/KR6e0066_041-X.markers.yaml, hash: 'sha256:579cca29d37f8c9cee71b9d3a2284356e827ac8ee3d85d9426dcc91b4bbbbfe1'}
+  - {seq: 42, role: markers, filename: assets/KR6e0066_042-X.markers.yaml, hash: 'sha256:4176ccc9527e89fbf35292f4cc74ace2c6bbf12b4cccbfc00570550fbafa2c9a'}
+  - {seq: 43, role: markers, filename: assets/KR6e0066_043-X.markers.yaml, hash: 'sha256:f4bd7f72cafe975820019a0dca5af45d147b2679dd8dbc364a40e84820dc91ff'}
+  - {seq: 44, role: markers, filename: assets/KR6e0066_044-X.markers.yaml, hash: 'sha256:a4eed2970bf87ae0fa09fb188fca68713eaae9677efb68bb1daf27675c079afc'}
+  - {seq: 45, role: markers, filename: assets/KR6e0066_045-X.markers.yaml, hash: 'sha256:1a536bc5c5cfae6717475e100e25ff40c412dc89c2a81b1b6527b05410165412'}
+  - {seq: 46, role: markers, filename: assets/KR6e0066_046-X.markers.yaml, hash: 'sha256:e2fab0e2b496e3998b54306586faa2858c9e1a8e4c1ae72767955093e283ed99'}
+  - {seq: 47, role: markers, filename: assets/KR6e0066_047-X.markers.yaml, hash: 'sha256:5e39233fddfb23969ad0eacc180f78c573a0c25d383e39194e4477bc8ac1bfe8'}
+  - {seq: 48, role: markers, filename: assets/KR6e0066_048-X.markers.yaml, hash: 'sha256:f0f5812d73503b6e1104585881df5420a3434648e79ee8a6c8e01a1aa5789034'}
+  - {seq: 49, role: markers, filename: assets/KR6e0066_049-X.markers.yaml, hash: 'sha256:35734a2ad91f7126be05565b1dd8224fcb97190d1e284dbca12891a0485e68e5'}
+  - {seq: 50, role: markers, filename: assets/KR6e0066_050-X.markers.yaml, hash: 'sha256:82e3cbc09259471392e6260cd8a5e02e861b64009ed4798cf263be50352139d5'}
+  - {seq: 51, role: markers, filename: assets/KR6e0066_051-X.markers.yaml, hash: 'sha256:92b3171149181b4b65267c33f06d12b18934ff8db4abaa84ca9d65f000337e25'}
+  - {seq: 52, role: markers, filename: assets/KR6e0066_052-X.markers.yaml, hash: 'sha256:333500a14af1daaae48e78e84cd7849bb4fa91a3076b2b7090d734a445c9e98e'}
+  - {seq: 53, role: markers, filename: assets/KR6e0066_053-X.markers.yaml, hash: 'sha256:d305c40114472daaea7e40d80643a7e981e73471e16b498d8e394753e3a517ed'}
+  - {seq: 54, role: markers, filename: assets/KR6e0066_054-X.markers.yaml, hash: 'sha256:227efca00c16c1314ef0890eae6ab0b0eea8674d66b5242fc5edf878af254131'}
+  - {seq: 55, role: markers, filename: assets/KR6e0066_055-X.markers.yaml, hash: 'sha256:b04a43bd650e6910d2ef1b0a2465c9568122f4de961c88b638cf70e8f6903fb4'}
+  - {seq: 56, role: markers, filename: assets/KR6e0066_056-X.markers.yaml, hash: 'sha256:b866be613c338d0f03629859fb614a0c5fb5bbf7bddb46947d59662ad1fe7b10'}
+  - {seq: 57, role: markers, filename: assets/KR6e0066_057-X.markers.yaml, hash: 'sha256:96ba976b9d9f0ff2a2aa3119ae53b1371818695a65d2b83fee853cec28027abe'}
+  - {seq: 58, role: markers, filename: assets/KR6e0066_058-X.markers.yaml, hash: 'sha256:0935a07fcc751640534416493698616cc61ffab073f4ecb3cdb00e6aca5dcb6b'}
+  - {seq: 59, role: markers, filename: assets/KR6e0066_059-X.markers.yaml, hash: 'sha256:4fe73183b15f77b5f3e3de8cfdb1ecba14122db95921c7e8ead7429ac161330c'}
+  - {seq: 60, role: markers, filename: assets/KR6e0066_060-X.markers.yaml, hash: 'sha256:fcb54d1e2b0df4ffa01e5b19f54b7165556cb736f40e33234597efcb79abb477'}
+  - {seq: 61, role: markers, filename: assets/KR6e0066_061-X.markers.yaml, hash: 'sha256:6971e30c945e2dc088f82d0a7e3d23f8ada269e7c7555adf4f3bdb72c5e51354'}
+  - {seq: 62, role: markers, filename: assets/KR6e0066_062-X.markers.yaml, hash: 'sha256:dca251e0f1549752a3ef0234c99c0b38847f4bd2177e1cb2350a47ebce1edbcc'}
+  - {seq: 63, role: markers, filename: assets/KR6e0066_063-X.markers.yaml, hash: 'sha256:a27ed1d7ba3f78d276ccbff8bb8c2f5538a53b8cd2e6560f40f65d973ec3dd86'}
+  - {seq: 64, role: markers, filename: assets/KR6e0066_064-X.markers.yaml, hash: 'sha256:bd6e18729ca506063f218ff43e0f87db126147c86ba4b65204c521aa5eaf0ede'}
+  - {seq: 65, role: markers, filename: assets/KR6e0066_065-X.markers.yaml, hash: 'sha256:d840a46ad8b14fc7ed5cd1cbb7994290df18871903e236af653602f35fb2db84'}
+  - {seq: 66, role: markers, filename: assets/KR6e0066_066-X.markers.yaml, hash: 'sha256:f030f11425c6ec9eb38319ec97ac610b092e217965059c9bed7afb011c371017'}
+  - {seq: 67, role: markers, filename: assets/KR6e0066_067-X.markers.yaml, hash: 'sha256:649bc9febe5f89cbcdde9e4cf4413212a211b3d6ba59df695c4a895de31c77d8'}
+  - {seq: 68, role: markers, filename: assets/KR6e0066_068-X.markers.yaml, hash: 'sha256:2b54df8aec103f757391096cddd84b59f8e5cd8e13b872dfa40c4f4d56369053'}
+  - {seq: 69, role: markers, filename: assets/KR6e0066_069-X.markers.yaml, hash: 'sha256:eafc529ed833bb8d91faa0f3bdfb5dace59cc1d09a64b628cc6dd8ae702e660e'}
+  - {seq: 70, role: markers, filename: assets/KR6e0066_070-X.markers.yaml, hash: 'sha256:fae90519830cf40892e07cca3897c180a2849eb4a2019bab4ed6bfd394a0894d'}
+  - {seq: 71, role: markers, filename: assets/KR6e0066_071-X.markers.yaml, hash: 'sha256:16dffbd87959b27aa1acb35ae40761627b204bb810b9a83333b61301e12dca8a'}
+  - {seq: 72, role: markers, filename: assets/KR6e0066_072-X.markers.yaml, hash: 'sha256:10bd05264fb42e53a67164593a17f51dbcbede08cc992f8d4d67b4b5013ab3e0'}
+  - {seq: 73, role: markers, filename: assets/KR6e0066_073-X.markers.yaml, hash: 'sha256:d0bb8b606ab9dbc489e15ce8a7fc80a0dd84cced17d120c9882c70803e41b45e'}
+  - {seq: 74, role: markers, filename: assets/KR6e0066_074-X.markers.yaml, hash: 'sha256:66133b16111e770f1f9946c137839dc16312b7424d021286c2ea0e2ffdeb643f'}
+  - {seq: 75, role: markers, filename: assets/KR6e0066_075-X.markers.yaml, hash: 'sha256:6ac2a531ea5e25757bccf39c15d46459c078a32fb64d6e467d817e05242d4ba9'}
+  - {seq: 76, role: markers, filename: assets/KR6e0066_076-X.markers.yaml, hash: 'sha256:f151228d2794a1817cc8a6f492d5475fda7d04712d9c4411c4171850ae4e4851'}
+  - {seq: 77, role: markers, filename: assets/KR6e0066_077-X.markers.yaml, hash: 'sha256:ce060b4fb6b1aff424debb6e17a5658949533f8ea3684c6bcbee8e1962ff6054'}
+  - {seq: 78, role: markers, filename: assets/KR6e0066_078-X.markers.yaml, hash: 'sha256:2b241ca8e1aa139c9d0db48383086e8dd200698991a06cb4d51b6af193f2ad6b'}
+  - {seq: 79, role: markers, filename: assets/KR6e0066_079-X.markers.yaml, hash: 'sha256:e292aaa6c17e218182991ac207474f58791ade27496c17ec9cf8f4997ffd998a'}
+  - {seq: 80, role: markers, filename: assets/KR6e0066_080-X.markers.yaml, hash: 'sha256:85e034f0d7044f7686e411f12c5ab962d559f4e0fb0e3c3b6ffa9edd3fb9ddb0'}
+  - {seq: 81, role: markers, filename: assets/KR6e0066_081-X.markers.yaml, hash: 'sha256:f64daeb3f166a16d3925d4b2e91e9688e2736c553158f6ba23d601d20c5dab7e'}
+  - {seq: 82, role: markers, filename: assets/KR6e0066_082-X.markers.yaml, hash: 'sha256:1bfd35bdda66fafc5810ef7c2370ccfc0cdb105a10d8017d0b1b331ca3eb2bd5'}
+  - {seq: 83, role: markers, filename: assets/KR6e0066_083-X.markers.yaml, hash: 'sha256:f4b3bc57bc04a4e3b543daaacd1747c887143da0d25a77ec966b684582fb77da'}
+  - {seq: 84, role: markers, filename: assets/KR6e0066_084-X.markers.yaml, hash: 'sha256:36ac1b6572b585da1c8ae45cfcb9e4c4d4b6f5c9eb24d3f35b72a0909a9d2ad8'}
+  - {seq: 85, role: markers, filename: assets/KR6e0066_085-X.markers.yaml, hash: 'sha256:1c4d994ba003ef9ff8751656acc3506b5ac8639be393ae5505a5cba44b07dcc7'}
+  - {seq: 86, role: markers, filename: assets/KR6e0066_086-X.markers.yaml, hash: 'sha256:f41aad7e76bd158632b88e970e46332f2535fb3d0b4eb5885179d2dc9546a046'}
+  - {seq: 87, role: markers, filename: assets/KR6e0066_087-X.markers.yaml, hash: 'sha256:cdf21228906b6c7df268bd184fb3ada0046f60ed10f68116cc094eeea18d6796'}
+  - {seq: 88, role: markers, filename: assets/KR6e0066_088-X.markers.yaml, hash: 'sha256:5d1d6aaf88e8ad1f664a66d8137b1073f589c306096c1d56e63ecddbb7f30db7'}
+  - {seq: 89, role: markers, filename: assets/KR6e0066_089-X.markers.yaml, hash: 'sha256:0dac00fd46b5ad4e5499a4b393dd462bb5c5bff1ddb6cb47dcfb66ecbe98e9a1'}
+  - {seq: 90, role: markers, filename: assets/KR6e0066_090-X.markers.yaml, hash: 'sha256:49138ca7bcb82ba8f4a6f159cab89eefa52ea066cd2454010f06dbb54222d542'}
+  - {seq: 91, role: markers, filename: assets/KR6e0066_091-X.markers.yaml, hash: 'sha256:cc6c340134eb69c2c64ac8cfa3e57a91e5373f10c15f41741c56db3e7665a5ea'}
+  - {seq: 92, role: markers, filename: assets/KR6e0066_092-X.markers.yaml, hash: 'sha256:eced9b2041fa9889363b44a110bbbc86bfb7b247b63d3e768a0894d71e1c876f'}
+  - {seq: 93, role: markers, filename: assets/KR6e0066_093-X.markers.yaml, hash: 'sha256:ca088c5d9c48cbbc6bcaa678156b1bd6f3be430f76f077dffb81956690f72fdf'}
+  - {seq: 94, role: markers, filename: assets/KR6e0066_094-X.markers.yaml, hash: 'sha256:5cd7de6985dc0f2f950fb95ea5cbb98ff4cd786101d82fd00cacfa7bdb360030'}
+  - {seq: 95, role: markers, filename: assets/KR6e0066_095-X.markers.yaml, hash: 'sha256:5a726c23c0643ac625fbc680bc5c2b1b658bad38ba594080852724932a185300'}
+  - {seq: 96, role: markers, filename: assets/KR6e0066_096-X.markers.yaml, hash: 'sha256:5f31f41d6ccd40d1d5e2b21e5fd6300df1545a76254452b751ef31803241ec6a'}
+  - {seq: 97, role: markers, filename: assets/KR6e0066_097-X.markers.yaml, hash: 'sha256:4d13cbb87826be20c8d08e76f15b42d8189c2b1e011ee2516d70963553b448c1'}
+  - {seq: 98, role: markers, filename: assets/KR6e0066_098-X.markers.yaml, hash: 'sha256:9507ad8d1057d86321d38fb52d45f77ed6b1af96b67b78673bff2e62eb930ef4'}
+  - {seq: 99, role: markers, filename: assets/KR6e0066_099-X.markers.yaml, hash: 'sha256:f4cb91435d07bbe2ae3c6ad7b26f97076849ea734ba70320ec99935000fc4150'}
+  - {seq: 100, role: markers, filename: assets/KR6e0066_100-X.markers.yaml, hash: 'sha256:73561fdb0863a662230d2f62b28f047aef7c7f9b9ca663150c54b753880c9e09'}
+  - {seq: 101, role: markers, filename: assets/KR6e0066_101-X.markers.yaml, hash: 'sha256:7dea6f1168f301cb818a12d3ef35731e76a488c9ecdb8ae1954133ada69c50d5'}
+  - {seq: 102, role: markers, filename: assets/KR6e0066_102-X.markers.yaml, hash: 'sha256:8b82d6d25ff3aa552935119b911037f05caf093334652d3d302062def150fc22'}
+  - {seq: 103, role: markers, filename: assets/KR6e0066_103-X.markers.yaml, hash: 'sha256:b2c7652999ee03ef66fab5799e2024e6e7cfc9f1279a9dbb9fca369ea14bd21e'}
+  - {seq: 104, role: markers, filename: assets/KR6e0066_104-X.markers.yaml, hash: 'sha256:f27a174ee60ba93ba71af724a3bb92838cf9789b69729ec507ba75da223c880b'}
+  - {seq: 105, role: markers, filename: assets/KR6e0066_105-X.markers.yaml, hash: 'sha256:287efab8a501394eda119f5387459e524ce3b6bc20010c8465a1fadedcecbfeb'}
+  - {seq: 106, role: markers, filename: assets/KR6e0066_106-X.markers.yaml, hash: 'sha256:5677218b8de048522f1e45292a444162b48787ee1f958e7ccf1cc8357d046ce3'}
+  - {seq: 107, role: markers, filename: assets/KR6e0066_107-X.markers.yaml, hash: 'sha256:fcacc27f11f63b73bc67271a9d7d0d638e8ba44d9b3d55eb628f13d483fcb953'}
+  - {seq: 108, role: markers, filename: assets/KR6e0066_108-X.markers.yaml, hash: 'sha256:48925b95e248dafcf63acc608ee6b721bd8b4de40eb9cf871a74bb9049637103'}
+  - {seq: 109, role: markers, filename: assets/KR6e0066_109-X.markers.yaml, hash: 'sha256:da156db900e311b2fd1bb5d53e31fa36a14f1e6f7d875fa2b0d75bb730145c94'}
+  - {seq: 110, role: markers, filename: assets/KR6e0066_110-X.markers.yaml, hash: 'sha256:669fafc1f17e7e77acbf549a997b02763e31a9b4a307041bee235bd98f17cc7d'}
+  - {seq: 111, role: markers, filename: assets/KR6e0066_111-X.markers.yaml, hash: 'sha256:dd725da24f23ea38823dfe25e14b7b441ceb76611fb76cc2aea0076fd6e234ac'}
+  - {seq: 112, role: markers, filename: assets/KR6e0066_112-X.markers.yaml, hash: 'sha256:5b2ec3a5fa736728f1fe2edce2d12b0bfcf046766d7992764bc97aaee0156271'}
+  - {seq: 113, role: markers, filename: assets/KR6e0066_113-X.markers.yaml, hash: 'sha256:d09f679d541459869f07e35dbb58c1091e88d1a09fbf986df3c218af2cd780df'}
+  - {seq: 114, role: markers, filename: assets/KR6e0066_114-X.markers.yaml, hash: 'sha256:187d8010c43a54a9d16d41a2ed134f1ecdf900acd5fbfe1915e4e51c25caf2ba'}
+  - {seq: 115, role: markers, filename: assets/KR6e0066_115-X.markers.yaml, hash: 'sha256:5c6bad7fef48e3afdf1293a9aeea09b93b71eef59ff979ff3877d6a02b846423'}
+  - {seq: 116, role: markers, filename: assets/KR6e0066_116-X.markers.yaml, hash: 'sha256:457c985f2a60152b4f90787baf3a7f43c5a109e1cef67e8c6f97066bb29eeff7'}
+  - {seq: 117, role: markers, filename: assets/KR6e0066_117-X.markers.yaml, hash: 'sha256:979360f25dce7d9369ba85a0683a43ef849b5cf61c89288ffb8c2e0e8fef2e73'}
+  - {seq: 118, role: markers, filename: assets/KR6e0066_118-X.markers.yaml, hash: 'sha256:ded8fed644cd90bb86636c3edb53d016c23e74bca9cef588c5cae1079b70b173'}
+  - {seq: 119, role: markers, filename: assets/KR6e0066_119-X.markers.yaml, hash: 'sha256:e47aec126dda506ff4d5595b30e004f7ca30619aa6cec1750bb3c643d7ec42dd'}
+  - {seq: 120, role: markers, filename: assets/KR6e0066_120-X.markers.yaml, hash: 'sha256:9a98fdf6326e536a55cda3277a809b2eacb8fd1e43a505e5b7bff417d2e39001'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0066_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 223-A 大周新譯大方廣佛華嚴經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0066_X_000-mulu-2
+    span:
+    - front
+    - 695
+    - 695
+  label: No. 223-B 大方廣佛華嚴經合論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0066_X_000-mulu-3
+    span:
+    - front
+    - 1836
+    - 1836
+  label: No. 223-C 大方廣佛華嚴經合論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0066_X_000-mulu-4
+    span:
+    - front
+    - 2851
+    - 2851
+  label: No. 223-D 釋大方廣佛華嚴經論主李長者事迹
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0066_X_000-mulu-5
+    span:
+    - front
+    - 4253
+    - 4253
+  label: 大方廣佛新華嚴經合論目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0066_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9688
+  label: 大方廣佛新華嚴經合論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0066_X_001-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 會釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0066_X_001-mulu-2
+    span:
+    - body
+    - 40
+    - 40
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0066_X_001-mulu-3
+    span:
+    - body
+    - 830
+    - 830
+  label: 第一明依教分宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0066_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9455
+  label: 大方廣佛新華嚴經合論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0066_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 8472
+  label: 大方廣佛新華嚴經合論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0066_X_003-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 第二明依宗教別
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0066_X_003-mulu-2
+    span:
+    - body
+    - 5082
+    - 5082
+  label: 第三明教義差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0066_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 10089
+  label: 大方廣佛新華嚴經合論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0066_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 9254
+  label: 大方廣佛新華嚴經合論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0066_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 9692
+  label: 大方廣佛新華嚴經合論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0066_X_006-mulu-1
+    span:
+    - body
+    - 5412
+    - 5412
+  label: 第四明成佛同別
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0066_X_006-mulu-2
+    span:
+    - body
+    - 7750
+    - 7750
+  label: 第五明見佛差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0066_X_006-mulu-3
+    span:
+    - body
+    - 8203
+    - 8203
+  label: 第六明說教時分
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0066_X_006-mulu-4
+    span:
+    - body
+    - 8730
+    - 8730
+  label: 第七明淨土權實
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0066_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 8861
+  label: 大方廣佛新華嚴經合論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0066_X_007-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 第八明攝化境界
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0066_X_007-mulu-2
+    span:
+    - body
+    - 1341
+    - 1341
+  label: 第九明因果延促
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0066_X_007-mulu-3
+    span:
+    - body
+    - 2027
+    - 2027
+  label: 第十明會教始終
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0066_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 7335
+  label: 大方廣佛新華嚴經合論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0066_X_008-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 世主妙嚴品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0066_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 8676
+  label: 大方廣佛新華嚴經合論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6e0066_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 7184
+  label: 大方廣佛新華嚴經合論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6e0066_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 9192
+  label: 大方廣佛新華嚴經合論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6e0066_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 8216
+  label: 大方廣佛新華嚴經合論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0066_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 8341
+  label: 大方廣佛新華嚴經合論卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6e0066_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 7389
+  label: 大方廣佛新華嚴經合論卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6e0066_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 7919
+  label: 大方廣佛新華嚴經合論卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6e0066_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 8253
+  label: 大方廣佛新華嚴經合論卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6e0066_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 5295
+  label: 大方廣佛新華嚴經合論卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6e0066_X_018-juan-start
+    span:
+    - body
+    - 0
+    - 8240
+  label: 大方廣佛新華嚴經合論卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6e0066_X_018-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 如來現相品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6e0066_X_019-juan-start
+    span:
+    - body
+    - 0
+    - 7779
+  label: 大方廣佛新華嚴經合論卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6e0066_X_019-mulu-1
+    span:
+    - body
+    - 4030
+    - 4030
+  label: 普賢三昧品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6e0066_X_020-juan-start
+    span:
+    - body
+    - 0
+    - 7855
+  label: 大方廣佛新華嚴經合論卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6e0066_X_020-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 世界成就品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6e0066_X_021-juan-start
+    span:
+    - body
+    - 0
+    - 8503
+  label: 大方廣佛新華嚴經合論卷第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6e0066_X_021-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 華藏世界品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6e0066_X_022-juan-start
+    span:
+    - body
+    - 0
+    - 7623
+  label: 大方廣佛新華嚴經合論卷第二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6e0066_X_023-juan-start
+    span:
+    - body
+    - 0
+    - 8616
+  label: 大方廣佛新華嚴經合論卷第二十三
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6e0066_X_024-juan-start
+    span:
+    - body
+    - 0
+    - 7345
+  label: 大方廣佛新華嚴經合論卷第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6e0066_X_024-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 毗盧遮那品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6e0066_X_025-juan-start
+    span:
+    - body
+    - 0
+    - 8778
+  label: 大方廣佛新華嚴經合論卷第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6e0066_X_025-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 佛名號品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6e0066_X_026-juan-start
+    span:
+    - body
+    - 0
+    - 8503
+  label: 大方廣佛新華嚴經合論卷第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6e0066_X_027-juan-start
+    span:
+    - body
+    - 0
+    - 9206
+  label: 大方廣佛新華嚴經合論卷第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6e0066_X_027-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 四聖諦品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6e0066_X_027-mulu-2
+    span:
+    - body
+    - 4220
+    - 4220
+  label: 光明覺品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6e0066_X_028-juan-start
+    span:
+    - body
+    - 0
+    - 8968
+  label: 大方廣佛新華嚴經合論卷第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6e0066_X_028-mulu-1
+    span:
+    - body
+    - 1929
+    - 1929
+  label: 菩薩問明品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6e0066_X_029-juan-start
+    span:
+    - body
+    - 0
+    - 8724
+  label: 大方廣佛新華嚴經合論卷第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6e0066_X_029-mulu-1
+    span:
+    - body
+    - 1223
+    - 1223
+  label: 淨行品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6e0066_X_029-mulu-2
+    span:
+    - body
+    - 5941
+    - 5941
+  label: 賢首品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6e0066_X_030-juan-start
+    span:
+    - body
+    - 0
+    - 7554
+  label: 大方廣佛新華嚴經合論卷第三十
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6e0066_X_031-juan-start
+    span:
+    - body
+    - 0
+    - 8434
+  label: 大方廣佛新華嚴經合論卷第三十一
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6e0066_X_031-mulu-1
+    span:
+    - body
+    - 2770
+    - 2770
+  label: 昇須彌山頂品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6e0066_X_031-mulu-2
+    span:
+    - body
+    - 6148
+    - 6148
+  label: 須彌頂上偈讚品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6e0066_X_032-juan-start
+    span:
+    - body
+    - 0
+    - 8599
+  label: 大方廣佛新華嚴經合論卷第三十二
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6e0066_X_032-mulu-1
+    span:
+    - body
+    - 5091
+    - 5091
+  label: 十住品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6e0066_X_033-juan-start
+    span:
+    - body
+    - 0
+    - 7498
+  label: 大方廣佛新華嚴經合論卷第三十三
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6e0066_X_034-juan-start
+    span:
+    - body
+    - 0
+    - 9386
+  label: 大方廣佛新華嚴經合論卷第三十四
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6e0066_X_034-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 梵行品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6e0066_X_034-mulu-2
+    span:
+    - body
+    - 1944
+    - 1944
+  label: 初發心功德品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6e0066_X_035-juan-start
+    span:
+    - body
+    - 0
+    - 9440
+  label: 大方廣佛新華嚴經合論卷第三十五
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6e0066_X_035-mulu-1
+    span:
+    - body
+    - 5170
+    - 5170
+  label: 明法品第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6e0066_X_036-juan-start
+    span:
+    - body
+    - 0
+    - 8306
+  label: 大方廣佛新華嚴經合論卷第三十六
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6e0066_X_036-mulu-1
+    span:
+    - body
+    - 5796
+    - 5796
+  label: 昇夜摩天宮品第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6e0066_X_037-juan-start
+    span:
+    - body
+    - 0
+    - 10897
+  label: 大方廣佛新華嚴經合論卷第三十七
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6e0066_X_037-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 夜摩天宮偈讚品第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6e0066_X_037-mulu-2
+    span:
+    - body
+    - 5244
+    - 5244
+  label: 十行品第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6e0066_X_038-juan-start
+    span:
+    - body
+    - 0
+    - 9228
+  label: 大方廣佛新華嚴經合論卷第三十八
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6e0066_X_039-juan-start
+    span:
+    - body
+    - 0
+    - 7003
+  label: 大方廣佛新華嚴經合論卷第三十九
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6e0066_X_039-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 十無盡藏品第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6e0066_X_040-juan-start
+    span:
+    - body
+    - 0
+    - 9095
+  label: 大方廣佛新華嚴經合論卷第四十
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6e0066_X_040-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 昇兜率天宮品第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6e0066_X_041-juan-start
+    span:
+    - body
+    - 0
+    - 8016
+  label: 大方廣佛新華嚴經合論卷第四十一
+  type: juan
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6e0066_X_042-juan-start
+    span:
+    - body
+    - 0
+    - 8657
+  label: 大方廣佛新華嚴經合論卷第四十二
+  type: juan
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6e0066_X_042-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 兜率天宮偈讚品第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6e0066_X_042-mulu-2
+    span:
+    - body
+    - 6138
+    - 6138
+  label: 十迴向品第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6e0066_X_043-juan-start
+    span:
+    - body
+    - 0
+    - 9274
+  label: 大方廣佛新華嚴經合論卷第四十三
+  type: juan
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6e0066_X_044-juan-start
+    span:
+    - body
+    - 0
+    - 9333
+  label: 大方廣佛新華嚴經合論卷第四十四
+  type: juan
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6e0066_X_045-juan-start
+    span:
+    - body
+    - 0
+    - 10034
+  label: 大方廣佛新華嚴經合論卷第四十五
+  type: juan
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6e0066_X_046-juan-start
+    span:
+    - body
+    - 0
+    - 8916
+  label: 大方廣佛新華嚴經合論卷第四十六
+  type: juan
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6e0066_X_047-juan-start
+    span:
+    - body
+    - 0
+    - 8388
+  label: 大方廣佛新華嚴經合論卷第四十七
+  type: juan
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6e0066_X_048-juan-start
+    span:
+    - body
+    - 0
+    - 9184
+  label: 大方廣佛新華嚴經合論卷第四十八
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6e0066_X_049-juan-start
+    span:
+    - body
+    - 0
+    - 7788
+  label: 大方廣佛新華嚴經合論卷第四十九
+  type: juan
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6e0066_X_050-juan-start
+    span:
+    - body
+    - 0
+    - 6009
+  label: 大方廣佛新華嚴經合論卷第五十
+  type: juan
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6e0066_X_051-juan-start
+    span:
+    - body
+    - 0
+    - 8828
+  label: 大方廣佛新華嚴經合論卷第五十一
+  type: juan
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6e0066_X_052-juan-start
+    span:
+    - body
+    - 0
+    - 9244
+  label: 大方廣佛新華嚴經合論卷第五十二
+  type: juan
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6e0066_X_053-juan-start
+    span:
+    - body
+    - 0
+    - 8353
+  label: 大方廣佛新華嚴經合論卷第五十三
+  type: juan
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6e0066_X_053-mulu-1
+    span:
+    - body
+    - 5725
+    - 5725
+  label: 十地品第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6e0066_X_054-juan-start
+    span:
+    - body
+    - 0
+    - 8762
+  label: 大方廣佛新華嚴經合論卷第五十四
+  type: juan
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR6e0066_X_055-juan-start
+    span:
+    - body
+    - 0
+    - 7424
+  label: 大方廣佛新華嚴經合論卷第五十五
+  type: juan
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR6e0066_X_056-juan-start
+    span:
+    - body
+    - 0
+    - 8948
+  label: 大方廣佛新華嚴經合論卷第五十六
+  type: juan
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR6e0066_X_057-juan-start
+    span:
+    - body
+    - 0
+    - 9811
+  label: 大方廣佛新華嚴經合論卷第五十七
+  type: juan
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR6e0066_X_058-juan-start
+    span:
+    - body
+    - 0
+    - 8426
+  label: 大方廣佛新華嚴經合論卷第五十八
+  type: juan
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR6e0066_X_059-juan-start
+    span:
+    - body
+    - 0
+    - 8616
+  label: 大方廣佛新華嚴經合論卷第五十九
+  type: juan
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR6e0066_X_060-juan-start
+    span:
+    - body
+    - 0
+    - 8622
+  label: 大方廣佛新華嚴經合論卷第六十
+  type: juan
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR6e0066_X_061-juan-start
+    span:
+    - body
+    - 0
+    - 9321
+  label: 大方廣佛新華嚴經合論卷第六十一
+  type: juan
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR6e0066_X_062-juan-start
+    span:
+    - body
+    - 0
+    - 8290
+  label: 大方廣佛新華嚴經合論卷第六十二
+  type: juan
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR6e0066_X_063-juan-start
+    span:
+    - body
+    - 0
+    - 9487
+  label: 大方廣佛新華嚴經合論卷第六十三
+  type: juan
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR6e0066_X_064-juan-start
+    span:
+    - body
+    - 0
+    - 8815
+  label: 大方廣佛新華嚴經合論卷第六十四
+  type: juan
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR6e0066_X_065-juan-start
+    span:
+    - body
+    - 0
+    - 8326
+  label: 大方廣佛新華嚴經合論卷第六十五
+  type: juan
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR6e0066_X_066-juan-start
+    span:
+    - body
+    - 0
+    - 9337
+  label: 大方廣佛新華嚴經合論卷第六十六
+  type: juan
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR6e0066_X_067-juan-start
+    span:
+    - body
+    - 0
+    - 8827
+  label: 大方廣佛新華嚴經合論卷第六十七
+  type: juan
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR6e0066_X_067-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 十定品第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR6e0066_X_068-juan-start
+    span:
+    - body
+    - 0
+    - 8929
+  label: 大方廣佛新華嚴經合論卷第六十八
+  type: juan
+  level: 1
+- ref:
+    seq: 69
+    marker_id: KR6e0066_X_069-juan-start
+    span:
+    - body
+    - 0
+    - 7200
+  label: 大方廣佛新華嚴經合論卷第六十九
+  type: juan
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR6e0066_X_070-juan-start
+    span:
+    - body
+    - 0
+    - 8056
+  label: 大方廣佛新華嚴經合論卷第七十
+  type: juan
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR6e0066_X_071-juan-start
+    span:
+    - body
+    - 0
+    - 8320
+  label: 大方廣佛新華嚴經合論卷第七十一
+  type: juan
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR6e0066_X_071-mulu-1
+    span:
+    - body
+    - 6100
+    - 6100
+  label: 十通品第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR6e0066_X_072-juan-start
+    span:
+    - body
+    - 0
+    - 8756
+  label: 大方廣佛新華嚴經合論卷第七十二
+  type: juan
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR6e0066_X_072-mulu-1
+    span:
+    - body
+    - 2165
+    - 2165
+  label: 十忍品第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR6e0066_X_073-juan-start
+    span:
+    - body
+    - 0
+    - 8188
+  label: 大方廣佛新華嚴經合論卷第七十三
+  type: juan
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR6e0066_X_073-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 阿僧祇品第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR6e0066_X_073-mulu-2
+    span:
+    - body
+    - 6069
+    - 6069
+  label: 壽量品第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR6e0066_X_073-mulu-3
+    span:
+    - body
+    - 6578
+    - 6578
+  label: 菩薩住處品第三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR6e0066_X_074-juan-start
+    span:
+    - body
+    - 0
+    - 10206
+  label: 大方廣佛新華嚴經合論卷第七十四
+  type: juan
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR6e0066_X_074-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 佛不思議法品第三十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR6e0066_X_075-juan-start
+    span:
+    - body
+    - 0
+    - 8310
+  label: 大方廣佛新華嚴經合論卷第七十五
+  type: juan
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR6e0066_X_075-mulu-1
+    span:
+    - body
+    - 4898
+    - 4898
+  label: 如來十身相海品第三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR6e0066_X_076-juan-start
+    span:
+    - body
+    - 0
+    - 7943
+  label: 大方廣佛新華嚴經合論卷第七十六
+  type: juan
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR6e0066_X_076-mulu-1
+    span:
+    - body
+    - 4150
+    - 4150
+  label: 如來隨好光明功德品第三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR6e0066_X_077-juan-start
+    span:
+    - body
+    - 0
+    - 9956
+  label: 大方廣佛新華嚴經合論卷第七十七
+  type: juan
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR6e0066_X_077-mulu-1
+    span:
+    - body
+    - 2813
+    - 2813
+  label: 普賢行品第三十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR6e0066_X_078-juan-start
+    span:
+    - body
+    - 0
+    - 9747
+  label: 大方廣佛新華嚴經合論卷第七十八
+  type: juan
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR6e0066_X_078-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 如來出現品第三十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR6e0066_X_079-juan-start
+    span:
+    - body
+    - 0
+    - 9714
+  label: 大方廣佛新華嚴經合論卷第七十九
+  type: juan
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR6e0066_X_080-juan-start
+    span:
+    - body
+    - 0
+    - 9320
+  label: 大方廣佛新華嚴經合論卷第八十
+  type: juan
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR6e0066_X_081-juan-start
+    span:
+    - body
+    - 0
+    - 7853
+  label: 大方廣佛新華嚴經合論卷第八十一
+  type: juan
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR6e0066_X_081-mulu-1
+    span:
+    - body
+    - 54
+    - 54
+  label: 離世間品第三十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 82
+    marker_id: KR6e0066_X_082-juan-start
+    span:
+    - body
+    - 0
+    - 8536
+  label: 大方廣佛新華嚴經合論卷第八十二
+  type: juan
+  level: 1
+- ref:
+    seq: 83
+    marker_id: KR6e0066_X_083-juan-start
+    span:
+    - body
+    - 0
+    - 7963
+  label: 大方廣佛新華嚴經合論卷第八十三
+  type: juan
+  level: 1
+- ref:
+    seq: 84
+    marker_id: KR6e0066_X_084-juan-start
+    span:
+    - body
+    - 0
+    - 8399
+  label: 大方廣佛新華嚴經合論卷第八十四
+  type: juan
+  level: 1
+- ref:
+    seq: 85
+    marker_id: KR6e0066_X_085-juan-start
+    span:
+    - body
+    - 0
+    - 7938
+  label: 大方廣佛新華嚴經合論卷第八十五
+  type: juan
+  level: 1
+- ref:
+    seq: 86
+    marker_id: KR6e0066_X_086-juan-start
+    span:
+    - body
+    - 0
+    - 8597
+  label: 大方廣佛新華嚴經合論卷第八十六
+  type: juan
+  level: 1
+- ref:
+    seq: 87
+    marker_id: KR6e0066_X_087-juan-start
+    span:
+    - body
+    - 0
+    - 8756
+  label: 大方廣佛新華嚴經合論卷第八十七
+  type: juan
+  level: 1
+- ref:
+    seq: 88
+    marker_id: KR6e0066_X_088-juan-start
+    span:
+    - body
+    - 0
+    - 8307
+  label: 大方廣佛新華嚴經合論卷第八十八
+  type: juan
+  level: 1
+- ref:
+    seq: 88
+    marker_id: KR6e0066_X_088-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 入法界品第三十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 89
+    marker_id: KR6e0066_X_089-juan-start
+    span:
+    - body
+    - 0
+    - 9772
+  label: 大方廣佛新華嚴經合論卷第八十九
+  type: juan
+  level: 1
+- ref:
+    seq: 90
+    marker_id: KR6e0066_X_090-juan-start
+    span:
+    - body
+    - 0
+    - 8355
+  label: 大方廣佛新華嚴經合論卷第九十
+  type: juan
+  level: 1
+- ref:
+    seq: 91
+    marker_id: KR6e0066_X_091-juan-start
+    span:
+    - body
+    - 0
+    - 9720
+  label: 大方廣佛新華嚴經合論卷第九十一
+  type: juan
+  level: 1
+- ref:
+    seq: 92
+    marker_id: KR6e0066_X_092-juan-start
+    span:
+    - body
+    - 0
+    - 7956
+  label: 大方廣佛新華嚴經合論卷第九十二
+  type: juan
+  level: 1
+- ref:
+    seq: 93
+    marker_id: KR6e0066_X_093-juan-start
+    span:
+    - body
+    - 0
+    - 8988
+  label: 大方廣佛新華嚴經合論卷第九十三
+  type: juan
+  level: 1
+- ref:
+    seq: 94
+    marker_id: KR6e0066_X_094-juan-start
+    span:
+    - body
+    - 0
+    - 9032
+  label: 大方廣佛新華嚴經合論卷第九十四
+  type: juan
+  level: 1
+- ref:
+    seq: 95
+    marker_id: KR6e0066_X_095-juan-start
+    span:
+    - body
+    - 0
+    - 8521
+  label: 大方廣佛新華嚴經合論卷第九十五
+  type: juan
+  level: 1
+- ref:
+    seq: 96
+    marker_id: KR6e0066_X_096-juan-start
+    span:
+    - body
+    - 0
+    - 8695
+  label: 大方廣佛新華嚴經合論卷第九十六
+  type: juan
+  level: 1
+- ref:
+    seq: 97
+    marker_id: KR6e0066_X_097-juan-start
+    span:
+    - body
+    - 0
+    - 7126
+  label: 大方廣佛新華嚴經合論卷第九十七
+  type: juan
+  level: 1
+- ref:
+    seq: 98
+    marker_id: KR6e0066_X_098-juan-start
+    span:
+    - body
+    - 0
+    - 6589
+  label: 大方廣佛新華嚴經合論卷第九十八
+  type: juan
+  level: 1
+- ref:
+    seq: 99
+    marker_id: KR6e0066_X_099-juan-start
+    span:
+    - body
+    - 0
+    - 8432
+  label: 大方廣佛新華嚴經合論卷第九十九
+  type: juan
+  level: 1
+- ref:
+    seq: 100
+    marker_id: KR6e0066_X_100-juan-start
+    span:
+    - body
+    - 0
+    - 6963
+  label: 大方廣佛新華嚴經合論卷第一百
+  type: juan
+  level: 1
+- ref:
+    seq: 101
+    marker_id: KR6e0066_X_101-juan-start
+    span:
+    - body
+    - 0
+    - 9759
+  label: 大方廣佛新華嚴經合論卷第一百一
+  type: juan
+  level: 1
+- ref:
+    seq: 102
+    marker_id: KR6e0066_X_102-juan-start
+    span:
+    - body
+    - 0
+    - 8415
+  label: 大方廣佛新華嚴經合論卷第一百二
+  type: juan
+  level: 1
+- ref:
+    seq: 103
+    marker_id: KR6e0066_X_103-juan-start
+    span:
+    - body
+    - 0
+    - 8625
+  label: 大方廣佛新華嚴經合論卷第一百三
+  type: juan
+  level: 1
+- ref:
+    seq: 104
+    marker_id: KR6e0066_X_104-juan-start
+    span:
+    - body
+    - 0
+    - 8253
+  label: 大方廣佛新華嚴經合論卷第一百四
+  type: juan
+  level: 1
+- ref:
+    seq: 105
+    marker_id: KR6e0066_X_105-juan-start
+    span:
+    - body
+    - 0
+    - 8394
+  label: 大方廣佛新華嚴經合論卷第一百五
+  type: juan
+  level: 1
+- ref:
+    seq: 106
+    marker_id: KR6e0066_X_106-juan-start
+    span:
+    - body
+    - 0
+    - 7470
+  label: 大方廣佛新華嚴經合論卷第一百六
+  type: juan
+  level: 1
+- ref:
+    seq: 107
+    marker_id: KR6e0066_X_107-juan-start
+    span:
+    - body
+    - 0
+    - 7732
+  label: 大方廣佛新華嚴經合論卷第一百七
+  type: juan
+  level: 1
+- ref:
+    seq: 108
+    marker_id: KR6e0066_X_108-juan-start
+    span:
+    - body
+    - 0
+    - 6546
+  label: 大方廣佛新華嚴經合論卷第一百八
+  type: juan
+  level: 1
+- ref:
+    seq: 109
+    marker_id: KR6e0066_X_109-juan-start
+    span:
+    - body
+    - 0
+    - 8650
+  label: 大方廣佛新華嚴經合論卷第一百九
+  type: juan
+  level: 1
+- ref:
+    seq: 110
+    marker_id: KR6e0066_X_110-juan-start
+    span:
+    - body
+    - 0
+    - 7516
+  label: 大方廣佛新華嚴經合論卷第一百十
+  type: juan
+  level: 1
+- ref:
+    seq: 111
+    marker_id: KR6e0066_X_111-juan-start
+    span:
+    - body
+    - 0
+    - 7555
+  label: 大方廣佛新華嚴經合論卷第一百十一
+  type: juan
+  level: 1
+- ref:
+    seq: 112
+    marker_id: KR6e0066_X_112-juan-start
+    span:
+    - body
+    - 0
+    - 7544
+  label: 大方廣佛新華嚴經合論卷第一百十二
+  type: juan
+  level: 1
+- ref:
+    seq: 113
+    marker_id: KR6e0066_X_113-juan-start
+    span:
+    - body
+    - 0
+    - 7822
+  label: 大方廣佛新華嚴經合論卷第一百十三
+  type: juan
+  level: 1
+- ref:
+    seq: 114
+    marker_id: KR6e0066_X_114-juan-start
+    span:
+    - body
+    - 0
+    - 7750
+  label: 大方廣佛新華嚴經合論卷第一百十四
+  type: juan
+  level: 1
+- ref:
+    seq: 115
+    marker_id: KR6e0066_X_115-juan-start
+    span:
+    - body
+    - 0
+    - 7243
+  label: 大方廣佛新華嚴經合論卷第一百十五
+  type: juan
+  level: 1
+- ref:
+    seq: 116
+    marker_id: KR6e0066_X_116-juan-start
+    span:
+    - body
+    - 0
+    - 7241
+  label: 大方廣佛新華嚴經合論卷第一百十六
+  type: juan
+  level: 1
+- ref:
+    seq: 117
+    marker_id: KR6e0066_X_117-juan-start
+    span:
+    - body
+    - 0
+    - 7902
+  label: 大方廣佛新華嚴經合論卷第一百十七
+  type: juan
+  level: 1
+- ref:
+    seq: 118
+    marker_id: KR6e0066_X_118-juan-start
+    span:
+    - body
+    - 0
+    - 8138
+  label: 大方廣佛新華嚴經合論卷第一百十八
+  type: juan
+  level: 1
+- ref:
+    seq: 119
+    marker_id: KR6e0066_X_119-juan-start
+    span:
+    - body
+    - 0
+    - 7184
+  label: 大方廣佛新華嚴經合論卷第一百十九
+  type: juan
+  level: 1
+- ref:
+    seq: 120
+    marker_id: KR6e0066_X_120-juan-start
+    span:
+    - body
+    - 0
+    - 8371
+  label: 大方廣佛新華嚴經合論卷第一百二十
+  type: juan
+  level: 1
+hash: sha256:4ffeb196722d1fc29728b2509bfb97deec464c3130aacc16c18fb958ce4bfe93
