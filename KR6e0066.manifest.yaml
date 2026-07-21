@@ -24,7 +24,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0066_000.yaml, hash: 'sha256:021ad7bb9354ff96e5d85303bca0c5a8671312266f510aa9dfe69fddc62d3e39'}
+  - {seq: 0, filename: KR6e0066_000.yaml, hash: 'sha256:7a81b8c6fa57c0f393692cc62d5e5106e14a9df3cae805fb4e71b182ae101350'}
   - {seq: 1, filename: KR6e0066_001.yaml, hash: 'sha256:c45d4568fb5054a634c4c5cda1ff0bacd3d7db3b4e726c54f9ecbaa5f20f7ea5'}
   - {seq: 2, filename: KR6e0066_002.yaml, hash: 'sha256:01c3dc9a0af32a3ba68c9d255666b132bbe414d67ac8bcf372d88e34c819cfdf'}
   - {seq: 3, filename: KR6e0066_003.yaml, hash: 'sha256:3ada4ddba4679a98989ccfde3a7d7ee7a421f51dc05967497b05a48e2448f85a'}
@@ -146,7 +146,7 @@ assets:
   - {seq: 119, filename: KR6e0066_119.yaml, hash: 'sha256:4e7bd0c46acda4a13acd289a3a77253d1e136af97c713f1948e5c480e9998331'}
   - {seq: 120, filename: KR6e0066_120.yaml, hash: 'sha256:1f3128f328085701553fda16e53383390d39302aacd50f19a9492de94670f3b5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0066_000.markers.yaml, hash: 'sha256:76424eadc914c49de3267d6f11bff511971a08641d9fafc7f108d0862e7a3067'}
+  - {seq: 0, role: markers, filename: assets/KR6e0066_000.markers.yaml, hash: 'sha256:86d0903b48b375c08d6528bbde53ba31d977ba2cee68a1c8c29153e16c7b2899'}
   - {seq: 1, role: markers, filename: assets/KR6e0066_001.markers.yaml, hash: 'sha256:63256c8f307428fa9888ebae1f9184c8945f967720b531ebcb2817e9784919d9'}
   - {seq: 2, role: markers, filename: assets/KR6e0066_002.markers.yaml, hash: 'sha256:0235b220f65f0b17e773e48054928be5bb7607eb2727ce9ea29346b90ee4b391'}
   - {seq: 3, role: markers, filename: assets/KR6e0066_003.markers.yaml, hash: 'sha256:fceae6eb6acef127e7235d6c3e1e1e5f3b4f701b3c7e45ff79e8cbd03766c078'}
@@ -272,7 +272,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0066_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 223-A 大周新譯大方廣佛華嚴經序
@@ -282,7 +282,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0066_X_000-mulu-2
     span:
-    - front
+    - body
     - 695
     - 695
   label: No. 223-B 大方廣佛華嚴經合論序
@@ -292,7 +292,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0066_X_000-mulu-3
     span:
-    - front
+    - body
     - 1836
     - 1836
   label: No. 223-C 大方廣佛華嚴經合論序
@@ -302,7 +302,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0066_X_000-mulu-4
     span:
-    - front
+    - body
     - 2851
     - 2851
   label: No. 223-D 釋大方廣佛華嚴經論主李長者事迹
@@ -312,7 +312,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0066_X_000-mulu-5
     span:
-    - front
+    - body
     - 4253
     - 4253
   label: 大方廣佛新華嚴經合論目錄
@@ -2028,7 +2028,7 @@ table_of_contents:
   label: 大方廣佛新華嚴經合論卷第一百二十
   type: juan
   level: 1
-hash: sha256:b8fed1bf07b842aed5320f819493a51769aa0c53696a0bfb1f25f6fa9869cd21
+hash: sha256:41ce8c420b6cedb3f3a57f5e2f6270dbc4a5140df0fabe9d51c2aa526945b472
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
